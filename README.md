@@ -38,7 +38,7 @@ Proporcionar una compresion completa y practica de JavaScript, desde los fundame
         <strong><em>Almacenar datos que pueden ser utilizados, modificados y manipulados a lo largo del programa</em></strong><br/>
       </td>
       <td>
-        <a href="https://www.ejemplo.com">Leccion</a>
+        <a href="https://github.com/MarioAlive99/curso-javascript/tree/main/LECCION%201.%20VARIABLES">Leccion</a>
       </td>
     </tr>
     <tr>
