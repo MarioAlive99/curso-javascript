@@ -26,12 +26,19 @@ Proporcionar una compresion completa y practica de JavaScript, desde los fundame
 <div align="center">
   <table>
     <tr>
+      <th>Imagen</th>
+      <th>Objetivo general</th>
+      <th>Link</th>
+    </tr>
+    <tr>
       <td style="text-align:center;">
         <img src="https://github.com/user-attachments/assets/62ad8b15-9f24-4642-9746-63297f9ec6aa" alt="Leccion 1 JS" style="width:600px;"/>
       </td>
       <td>
         <strong><em>Almacenar datos que pueden ser utilizados, modificados y manipulados a lo largo del programa</em></strong><br/>
-        <a href="https://www.ejemplo.com">Link</a>
+      </td>
+      <td>
+        <a href="https://www.ejemplo.com">Leccion 1</a>
       </td>
     </tr>
     <tr>
@@ -40,7 +47,9 @@ Proporcionar una compresion completa y practica de JavaScript, desde los fundame
       </td>
       <td>
         <strong><em>Definir y categorizar los valores que una variable pueda almacenar y manipular, permitiendo que el lenguaje maneje esos valores de manera adecuada segun su naturaleza y caracteristicas.</em></strong><br/>
-        <a href="https://www.ejemplo.com">Link</a>
+      </td>
+      <td>
+        <a href="https://www.ejemplo.com">Leccion 2</a>
       </td>
     </tr>
     <tr>
@@ -49,7 +58,9 @@ Proporcionar una compresion completa y practica de JavaScript, desde los fundame
       </td>
       <td>
         <strong><em>Organizar y estructurar datos complejos mediante la agrupacion de propiedades y metodos bajo una unica identidad, permitiendo representar entidades reales o conceptos abstractos y facilitar la manipulacion y gestion de datos relacionados de manera cohesiva.</em></strong><br/>
-        <a href="https://www.ejemplo.com">Link</a>
+      </td>
+      <td>
+        <a href="https://www.ejemplo.com">Leccion 3</a>
       </td>
     </tr>
     <tr>
@@ -58,7 +69,9 @@ Proporcionar una compresion completa y practica de JavaScript, desde los fundame
       </td>
       <td>
         <strong><em>Extraer y asignar valores de arrays u objetos a variables individuales de manera concisa y legible, simplificando el acceso a datos y mejorando la calidad del codigo.</em></strong><br/>
-        <a href="https://www.ejemplo.com">Link</a>
+      </td>
+      <td>
+        <a href="https://www.ejemplo.com">Leccion 4</a>
       </td>
     </tr>
   </table>
