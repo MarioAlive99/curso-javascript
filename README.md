@@ -38,7 +38,7 @@ Proporcionar una compresion completa y practica de JavaScript, desde los fundame
         <strong><em>Almacenar datos que pueden ser utilizados, modificados y manipulados a lo largo del programa</em></strong><br/>
       </td>
       <td>
-        <a href="https://www.ejemplo.com">Leccion 1</a>
+        <a href="https://www.ejemplo.com">Leccion</a>
       </td>
     </tr>
     <tr>
@@ -49,7 +49,7 @@ Proporcionar una compresion completa y practica de JavaScript, desde los fundame
         <strong><em>Definir y categorizar los valores que una variable pueda almacenar y manipular, permitiendo que el lenguaje maneje esos valores de manera adecuada segun su naturaleza y caracteristicas.</em></strong><br/>
       </td>
       <td>
-        <a href="https://www.ejemplo.com">Leccion 2</a>
+        <a href="https://www.ejemplo.com">Leccion</a>
       </td>
     </tr>
     <tr>
@@ -60,7 +60,7 @@ Proporcionar una compresion completa y practica de JavaScript, desde los fundame
         <strong><em>Organizar y estructurar datos complejos mediante la agrupacion de propiedades y metodos bajo una unica identidad, permitiendo representar entidades reales o conceptos abstractos y facilitar la manipulacion y gestion de datos relacionados de manera cohesiva.</em></strong><br/>
       </td>
       <td>
-        <a href="https://www.ejemplo.com">Leccion 3</a>
+        <a href="https://www.ejemplo.com">Leccion</a>
       </td>
     </tr>
     <tr>
@@ -71,7 +71,7 @@ Proporcionar una compresion completa y practica de JavaScript, desde los fundame
         <strong><em>Extraer y asignar valores de arrays u objetos a variables individuales de manera concisa y legible, simplificando el acceso a datos y mejorando la calidad del codigo.</em></strong><br/>
       </td>
       <td>
-        <a href="https://www.ejemplo.com">Leccion 4</a>
+        <a href="https://www.ejemplo.com">Leccion</a>
       </td>
     </tr>
   </table>
