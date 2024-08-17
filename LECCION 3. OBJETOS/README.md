@@ -139,7 +139,7 @@ La depuracion de objetos en JS puede implicar varias estrategias para identifica
         <a href="#">-</a>
       </td>
       <td align="center">
-        <a href="#">Leccion 4</a>
+        <a href="https://github.com/MarioAlive99/curso-javascript/tree/main/LECCION%204.%20DESTRUCTIRING">Leccion 4</a>
       </td>
     </tr>
   </table>
