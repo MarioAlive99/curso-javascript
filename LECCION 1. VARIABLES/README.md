@@ -85,7 +85,7 @@ Aunque el nombre sugiere una relacion estrecha con Java, JavaScript y Java no es
         <a href="#">-</a>
       </td>
       <td align="center">
-        <a href="www.google.com">Leccion 2</a>
+        <a href="https://github.com/MarioAlive99/curso-javascript/tree/main/LECCION%202.%20TIPOS%20DE%20DATOS">Leccion 2</a>
       </td>
     </tr>
   </table>
