@@ -99,7 +99,7 @@ Un valor <strong>mutable</strong> puede ser modificado despues de su creacion. E
         <a href="#">-</a>
       </td>
       <td align="center">
-        <a href="www.google.com">Leccion 3</a>
+        <a href="https://github.com/MarioAlive99/curso-javascript/tree/main/LECCION%203.%20OBJETOS">Leccion 3</a>
       </td>
     </tr>
   </table>
