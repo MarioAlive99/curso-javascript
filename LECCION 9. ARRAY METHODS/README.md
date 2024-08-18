@@ -89,7 +89,7 @@ Aqui tienes un ejemplo combinado con estas funciones:
   console.log(sumOfSquares); // 41
 </code></pre>
 
-# ¿Como ofrecer capacidades para ordenar (sort()) y buscar (find(), includes()) elementos en el array? 🤔
+# ¿Como ofrecer capacidades para ordenar elementos en el array? 🤔
 * **sort().** Ordenar los elementos del array en su lugar según un criterio específico.
 <pre><code>
   let numbers = [4, 2, 5, 1, 3];
@@ -150,7 +150,7 @@ Tambien esta otro ejemplo con tres funciones:
   console.log(hasThirty); // true
 </code></pre>
 
-# ¿Como permitir modificar la estructura del array, como añadir (push(), unshift()) o eliminar (pop(), shift(), splice()) elementos?
+# ¿Como permitir modificar elementos en la estructura del array?
 * **push().** Añadir uno o más elementos al final del array.
 <pre><code>
   let fruits = ['apple', 'banana'];
