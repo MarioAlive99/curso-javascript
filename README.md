@@ -61,6 +61,30 @@ Proporcionar una compresion completa y practica de JavaScript, desde los fundame
         <strong><em>Extraer y asignar valores de arrays u objetos a variables individuales de manera concisa y legible, simplificando el acceso a datos y mejorando la calidad del codigo.</em></strong><br/>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:center;">
+        <img src="https://github.com/user-attachments/assets/fa0622cc-cc6f-43ba-9c79-4cef625b7416" alt="Leccion 5 JS" style="width:600px;"/>
+      </td>
+      <td>
+        <strong><em>Gestionar y modificar dinámicamente datos complejos, facilitando la creación de aplicaciones interactivas y eficientes al permitir la alteración de propiedades y métodos de objetos en tiempo real.</em></strong><br/>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center;">
+        <img src="https://github.com/user-attachments/assets/a9e77411-fba6-4a76-8ea9-0bbfeb6d2427" alt="Leccion 6 JS" style="width:600px;"/>
+      </td>
+      <td>
+        <strong><em>Combinar sus propiedades y métodos en un solo objeto, simplificando la gestión de datos y permitiendo una estructura más coherente y accesible, especialmente en la manipulación y actualización de datos.</em></strong><br/>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center;">
+        <img src="https://github.com/user-attachments/assets/d06d006b-058f-4b00-a4c7-ae1b7d083d3f" alt="Leccion 7 JS" style="width:600px;"/>
+      </td>
+      <td>
+        <strong><em>Almacenar y gestionar colecciones de datos ordenados, permitiendo el acceso, modificación y manipulación eficiente de elementos a través de índices, facilitando la organización y procesamiento de conjuntos de información en una estructura flexible.</em></strong><br/>
+      </td>
+    </tr>
   </table>
 </div>
 
