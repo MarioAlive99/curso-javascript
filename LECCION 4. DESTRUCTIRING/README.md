@@ -71,6 +71,82 @@ console.log(nombre); // 'Carlos'
 console.log(edad); // 28
 </code></pre>
 
+# Destructiring de dos o mas objetos
+El <strong>destructiring de dos o mas objetos</strong> en JS es una tecnica que permite extraer propiedades especificas de multiples objetos y asignarlas en variables de manera concisa. En lugar de acceder a cada propiedad de los objetos mediante la notacion de punto o corchetes, puedes usar la sintaxis de destructuring para obtener los valores directamente y asignarlos a variables.
+
+<pre><code>
+  const obj1 = { a: 1, b: 2 };
+  const obj2 = { c: 3, d: 4 };
+  
+  // Destructuring de ambos objetos
+  const { a, b } = obj1;
+  const { c, d } = obj2;
+  
+  console.log(a, b, c, d); // 1 2 3 4
+</code></pre>
+En este ejemplo, las propiedades `a` y `b` se extraen de `obj1` y las propiedades `c` y `d` se extraen de `obj2`, asignadolas a variables con el mismo nombre.
+
+# Ejemplos y tecnicas de destructuring de dos o mas objetos
+* **Destructuring simple.**
+<pre><code>
+  const obj1 = { a: 1, b: 2 };
+  const obj2 = { c: 3, d: 4 };
+  
+  const { a, b } = obj1;
+  const { c, d } = obj2;
+  
+  console.log(a, b, c, d); // 1 2 3 4
+</code></pre>
+
+* **Destructuring con alias.**
+Puedes usar alias para asignar propiedades a variables con nombres diferentes.
+<pre><code>
+  const obj1 = { a: 1, b: 2 };
+  const obj2 = { c: 3, d: 4 };
+  
+  const { a: alpha, b: beta } = obj1;
+  const { c: gamma, d: delta } = obj2;
+  
+  console.log(alpha, beta, gamma, delta); // 1 2 3 4
+</code></pre>
+
+* **Destructuring en parametros de funcion.**
+Puedes usar destructuring directamente en los parametros de una funcion para extraer propiedades de objetos pasados como argumentos.
+<pre><code>
+  function printValues({ a, b }, { c, d }) {
+    console.log(a, b, c, d);
+  }
+  
+  const obj1 = { a: 1, b: 2 };
+  const obj2 = { c: 3, d: 4 };
+  
+  printValues(obj1, obj2); // 1 2 3 4
+</code></pre>
+
+* **Destructuring con valores por defecto.**
+Puedes establecer valores por defecto en caso de que las propiedades no existan en los objetos
+<pre><code>
+  const obj1 = { a: 1 };
+  const obj2 = { c: 3 };
+  
+  const { a = 0, b = 2 } = obj1;
+  const { c = 0, d = 4 } = obj2;
+  
+  console.log(a, b, c, d); // 1 2 3 4
+</code></pre>
+
+* **Destructuring de propiedades anidadas.**
+Si los objetos tienen propiedades anidadas, puedes extraer valores directamente de las propiedades internas.
+<pre><code>
+  const obj1 = { a: { x: 10, y: 20 }, b: 2 };
+  const obj2 = { c: 3, d: { z: 40 } };
+  
+  const { a: { x, y }, b } = obj1;
+  const { c, d: { z } } = obj2;
+  
+  console.log(x, y, b, c, z); // 10 20 2 3 40
+</code></pre>
+
 # Proximas lecciones
 <div align="center">
   <table>
