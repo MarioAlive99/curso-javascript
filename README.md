@@ -31,7 +31,9 @@ Proporcionar una compresion completa y practica de JavaScript, desde los fundame
     </tr>
     <tr>
       <td style="text-align:center;">
-        <img src="https://github.com/user-attachments/assets/62ad8b15-9f24-4642-9746-63297f9ec6aa" alt="Leccion 1 JS" style="width:600px;"/>
+        <a href="https://github.com/MarioAlive99/curso-javascript/tree/main/LECCION%201.%20VARIABLES">
+          <img src="https://github.com/user-attachments/assets/62ad8b15-9f24-4642-9746-63297f9ec6aa" alt="Leccion 1 JS" style="width:600px;"/>
+        </a>
       </td>
       <td>
         <strong><em>Almacenar datos que pueden ser utilizados, modificados y manipulados a lo largo del programa</em></strong><br/>
@@ -39,7 +41,9 @@ Proporcionar una compresion completa y practica de JavaScript, desde los fundame
     </tr>
     <tr>
       <td style="text-align:center;">
-        <img src="https://github.com/user-attachments/assets/e9a0fc03-1ce1-4a69-a493-075d6a8ad4f0" alt="Leccion 2 JS" style="width:600px;"/>
+        <a href="https://github.com/MarioAlive99/curso-javascript/tree/main/LECCION%202.%20TIPOS%20DE%20DATOS">
+          <img src="https://github.com/user-attachments/assets/e9a0fc03-1ce1-4a69-a493-075d6a8ad4f0" alt="Leccion 2 JS" style="width:600px;"/>
+        </a>
       </td>
       <td>
         <strong><em>Definir y categorizar los valores que una variable pueda almacenar y manipular, permitiendo que el lenguaje maneje esos valores de manera adecuada segun su naturaleza y caracteristicas.</em></strong><br/>
@@ -47,7 +51,9 @@ Proporcionar una compresion completa y practica de JavaScript, desde los fundame
     </tr>
     <tr>
       <td style="text-align:center;">
-        <img src="https://github.com/user-attachments/assets/ef12e5e7-a1e2-4a39-8e97-e510b0e339ea" alt="Leccion 3 JS" style="width:600px;"/>
+        <a href="https://github.com/MarioAlive99/curso-javascript/tree/main/LECCION%203.%20OBJETOS">
+          <img src="https://github.com/user-attachments/assets/ef12e5e7-a1e2-4a39-8e97-e510b0e339ea" alt="Leccion 3 JS" style="width:600px;"/>
+        </a>
       </td>
       <td>
         <strong><em>Organizar y estructurar datos complejos mediante la agrupacion de propiedades y metodos bajo una unica identidad, permitiendo representar entidades reales o conceptos abstractos y facilitar la manipulacion y gestion de datos relacionados de manera cohesiva.</em></strong><br/>
@@ -55,7 +61,9 @@ Proporcionar una compresion completa y practica de JavaScript, desde los fundame
     </tr>
     <tr>
       <td style="text-align:center;">
-        <img src="https://github.com/user-attachments/assets/41b2177f-faf6-4ca2-84ec-fb4ca00a2d35" alt="Leccion 4 JS" style="width:600px;"/>
+        <a href="https://github.com/MarioAlive99/curso-javascript/tree/main/LECCION%204.%20DESTRUCTIRING">
+          <img src="https://github.com/user-attachments/assets/41b2177f-faf6-4ca2-84ec-fb4ca00a2d35" alt="Leccion 4 JS" style="width:600px;"/>
+        </a>
       </td>
       <td>
         <strong><em>Extraer y asignar valores de arrays u objetos a variables individuales de manera concisa y legible, simplificando el acceso a datos y mejorando la calidad del codigo.</em></strong><br/>
@@ -63,7 +71,9 @@ Proporcionar una compresion completa y practica de JavaScript, desde los fundame
     </tr>
     <tr>
       <td style="text-align:center;">
-        <img src="https://github.com/user-attachments/assets/fa0622cc-cc6f-43ba-9c79-4cef625b7416" alt="Leccion 5 JS" style="width:600px;"/>
+        <a href="https://github.com/MarioAlive99/curso-javascript/tree/main/LECCION%205.%20MANIPULACION%20DE%20OBJETOS">
+          <img src="https://github.com/user-attachments/assets/fa0622cc-cc6f-43ba-9c79-4cef625b7416" alt="Leccion 5 JS" style="width:600px;"/>
+        </a>
       </td>
       <td>
         <strong><em>Gestionar y modificar dinámicamente datos complejos, facilitando la creación de aplicaciones interactivas y eficientes al permitir la alteración de propiedades y métodos de objetos en tiempo real.</em></strong><br/>
@@ -71,7 +81,9 @@ Proporcionar una compresion completa y practica de JavaScript, desde los fundame
     </tr>
     <tr>
       <td style="text-align:center;">
-        <img src="https://github.com/user-attachments/assets/a9e77411-fba6-4a76-8ea9-0bbfeb6d2427" alt="Leccion 6 JS" style="width:600px;"/>
+        <a href="https://github.com/MarioAlive99/curso-javascript/tree/main/LECCION%206.%20UNION%20DE%20OBJETOS">
+          <img src="https://github.com/user-attachments/assets/a9e77411-fba6-4a76-8ea9-0bbfeb6d2427" alt="Leccion 6 JS" style="width:600px;"/>
+        </a>
       </td>
       <td>
         <strong><em>Combinar sus propiedades y métodos en un solo objeto, simplificando la gestión de datos y permitiendo una estructura más coherente y accesible, especialmente en la manipulación y actualización de datos.</em></strong><br/>
@@ -79,7 +91,9 @@ Proporcionar una compresion completa y practica de JavaScript, desde los fundame
     </tr>
     <tr>
       <td style="text-align:center;">
-        <img src="https://github.com/user-attachments/assets/d06d006b-058f-4b00-a4c7-ae1b7d083d3f" alt="Leccion 7 JS" style="width:600px;"/>
+        <a href="https://github.com/MarioAlive99/curso-javascript/tree/main/LECCION%207.%20ARRAYS">
+          <img src="https://github.com/user-attachments/assets/d06d006b-058f-4b00-a4c7-ae1b7d083d3f" alt="Leccion 7 JS" style="width:600px;"/>
+        </a>
       </td>
       <td>
         <strong><em>Almacenar y gestionar colecciones de datos ordenados, permitiendo el acceso, modificación y manipulación eficiente de elementos a través de índices, facilitando la organización y procesamiento de conjuntos de información en una estructura flexible.</em></strong><br/>
@@ -87,7 +101,9 @@ Proporcionar una compresion completa y practica de JavaScript, desde los fundame
     </tr>
     <tr>
       <td style="text-align:center;">
-        <img src="https://github.com/user-attachments/assets/2acbe4e3-e219-4bf4-b212-c68cc5bcba10" alt="Leccion 8 JS" style="width:600px;"/>
+        <a href="https://github.com/MarioAlive99/curso-javascript/tree/main/LECCION%208.%20TEMPLATE%20STRINGS">
+          <img src="https://github.com/user-attachments/assets/2acbe4e3-e219-4bf4-b212-c68cc5bcba10" alt="Leccion 8 JS" style="width:600px;"/>
+        </a>
       </td>
       <td>
         <strong><em>Permitir la creación de cadenas de texto con interpolación de variables y expresiones, facilitando la construcción dinámica de contenido..</em></strong><br/>
@@ -95,7 +111,9 @@ Proporcionar una compresion completa y practica de JavaScript, desde los fundame
     </tr>
     <tr>
       <td style="text-align:center;">
-        <img src="https://github.com/user-attachments/assets/6ddd214c-77fa-4137-8766-9fc270894036" alt="Leccion 9 JS" style="width:600px;"/>
+        <a href="https://github.com/MarioAlive99/curso-javascript/tree/main/LECCION%2010.%20FUNCIONES">
+          <img src="https://github.com/user-attachments/assets/6ddd214c-77fa-4137-8766-9fc270894036" alt="Leccion 9 JS" style="width:600px;"/>
+        </a>
       </td>
       <td>
         <strong><em>Encapsular bloques de código que realizan tareas específicas, permitiendo su reutilización, organización, y mantenimiento.</em></strong><br/>
@@ -103,7 +121,9 @@ Proporcionar una compresion completa y practica de JavaScript, desde los fundame
     </tr>
     <tr>
       <td style="text-align:center;">
-        <img src="https://github.com/user-attachments/assets/9514cab7-6ac2-46a7-bec9-2b9e69111919" alt="Leccion 10 JS" style="width:600px;"/>
+        <a href="https://github.com/MarioAlive99/curso-javascript/tree/main/LECCION%209.%20ARRAY%20METHODS">
+          <img src="https://github.com/user-attachments/assets/9514cab7-6ac2-46a7-bec9-2b9e69111919" alt="Leccion 10 JS" style="width:600px;"/>
+        </a>
       </td>
       <td>
         <strong><em>Proporcionar herramientas para manipular y transformar arrays de manera eficiente y concisa.</em></strong><br/>
