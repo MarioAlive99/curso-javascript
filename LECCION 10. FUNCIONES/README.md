@@ -182,7 +182,7 @@ Al encapsular el código en funciones, no solo evitas la duplicación, sino que 
         <a href="#">-</a>
       </td>
       <td align="center">
-        <a href="">Leccion 10</a>
+        <a href="https://github.com/MarioAlive99/curso-javascript/tree/main/LECCION%2010.%20FUNCIONES">Leccion 10</a>
       </td>
     </tr>
   </table>
