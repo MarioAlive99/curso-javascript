@@ -85,6 +85,30 @@ Proporcionar una compresion completa y practica de JavaScript, desde los fundame
         <strong><em>Almacenar y gestionar colecciones de datos ordenados, permitiendo el acceso, modificación y manipulación eficiente de elementos a través de índices, facilitando la organización y procesamiento de conjuntos de información en una estructura flexible.</em></strong><br/>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:center;">
+        <img src="https://github.com/user-attachments/assets/2acbe4e3-e219-4bf4-b212-c68cc5bcba10" alt="Leccion 8 JS" style="width:600px;"/>
+      </td>
+      <td>
+        <strong><em>Permitir la creación de cadenas de texto con interpolación de variables y expresiones, facilitando la construcción dinámica de contenido..</em></strong><br/>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center;">
+        <img src="https://github.com/user-attachments/assets/6ddd214c-77fa-4137-8766-9fc270894036" alt="Leccion 9 JS" style="width:600px;"/>
+      </td>
+      <td>
+        <strong><em>Encapsular bloques de código que realizan tareas específicas, permitiendo su reutilización, organización, y mantenimiento.</em></strong><br/>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center;">
+        <img src="https://github.com/user-attachments/assets/9514cab7-6ac2-46a7-bec9-2b9e69111919" alt="Leccion 10 JS" style="width:600px;"/>
+      </td>
+      <td>
+        <strong><em>Proporcionar herramientas para manipular y transformar arrays de manera eficiente y concisa.</em></strong><br/>
+      </td>
+    </tr>
   </table>
 </div>
 
