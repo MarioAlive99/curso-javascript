@@ -150,7 +150,7 @@ Tambien esta otro ejemplo con tres funciones:
   console.log(hasThirty); // true
 </code></pre>
 
-# ¿Como permitir modificar elementos en la estructura del array?
+# ¿Como permitir modificar elementos en la estructura del array? 🤔
 * **push().** Añadir uno o más elementos al final del array.
 <pre><code>
   let fruits = ['apple', 'banana'];
@@ -206,3 +206,93 @@ Tambien esta otro ejemplo con tres funciones:
   console.log(fruits); // ['apple', 'blueberry', 'kiwi', 'date']
 </code></pre>
 
+# Como facilitar la iteración sobre los elementos del array? 🤔
+* **forEach().**  Ejecutar una función para cada elemento del array.
+<pre><code>
+  let numbers = [1, 2, 3, 4, 5];
+  
+  // Usar forEach() para imprimir cada número
+  numbers.forEach(num => {
+      console.log(num);
+  });
+  
+  // Resultado:
+  // 1
+  // 2
+  // 3
+  // 4
+  // 5
+</code></pre>
+
+* **some().** Verificar si al menos un elemento del array cumple con una condición específica.
+<pre><code>
+  let numbers = [1, 2, 3, 4, 5];
+  
+  // Verificar si hay algún número mayor de 3
+  let hasNumberGreaterThanThree = numbers.some(num => num > 3);
+  
+  console.log(hasNumberGreaterThanThree); // true
+  
+  // Verificar si hay algún número mayor de 6
+  let hasNumberGreaterThanSix = numbers.some(num => num > 6);
+  
+  console.log(hasNumberGreaterThanSix); // false
+</code></pre>
+
+* **every().** Verificar si todos los elementos del array cumplen con una condición específica.
+<pre><code>
+  let numbers = [2, 4, 6, 8, 10];
+
+  // Verificar si todos los números son pares
+  let allAreEven = numbers.every(num => num % 2 === 0);
+  
+  console.log(allAreEven); // true
+  
+  // Verificar si todos los números son mayores de 5
+  let allGreaterThanFive = numbers.every(num => num > 5);
+  
+  console.log(allGreaterThanFive); // false
+</code></pre>
+
+# ¿Como permitir combinar elementos y reducir el array a un único valor? 🤔
+* **reduce().** Reducir todos los elementos del array a un único valor aplicando una función de acumulación.
+<pre><code>
+  let numbers = [1, 2, 3, 4, 5];
+
+  // Usar reduce() para calcular la suma de todos los números
+  let sum = numbers.reduce((accumulator, num) => accumulator + num, 0);
+  
+  console.log(sum); // 15
+</code></pre>
+
+* **reduceRight().**  Reducir todos los elementos del array a un único valor aplicando una función de acumulación, pero recorriendo el array de derecha a izquierda.
+<pre><code>
+  let numbers = [1, 2, 3, 4, 5];
+  
+  // Usar reduceRight() para concatenar todos los números como una cadena
+  let concatenated = numbers.reduceRight((accumulator, num) => accumulator + num, '');
+  
+  console.log(concatenated); // '54321'
+</code></pre>
+
+# Proximas lecciones
+<div align="center">
+  <table>
+    <tr>
+      <th>Leccion anterior</th>
+      <th>Leccion actual</th>
+      <th>Leccion siguiente</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/MarioAlive99/curso-javascript/tree/main/LECCION%208.%20TEMPLATE%20STRINGS">Leccion 8</a>
+      </td>
+      <td align="center">
+        <a href="#"></a>
+      </td>
+      <td align="center">
+        <a href="">Leccion 10</a>
+      </td>
+    </tr>
+  </table>
+</div>
